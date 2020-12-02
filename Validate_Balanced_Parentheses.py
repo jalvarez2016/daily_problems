@@ -9,7 +9,7 @@ openings = {
     "[" : "]",
 }
 
-stack = []
+# stack = []
 
 class Solution:
   def isValid(self, s):
